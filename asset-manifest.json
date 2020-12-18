@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.56381894.chunk.css",
-    "main.js": "/static/js/main.fd9b6295.chunk.js",
-    "main.js.map": "/static/js/main.fd9b6295.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e7f7714f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e7f7714f.js.map",
-    "static/js/2.61d8e67f.chunk.js": "/static/js/2.61d8e67f.chunk.js",
-    "static/js/2.61d8e67f.chunk.js.map": "/static/js/2.61d8e67f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.56381894.chunk.css.map": "/static/css/main.56381894.chunk.css.map",
-    "static/js/2.61d8e67f.chunk.js.LICENSE.txt": "/static/js/2.61d8e67f.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/backgroundImugi.01b09beb.jpg"
+    "main.css": "/imugi-captacao/static/css/main.12cb7507.chunk.css",
+    "main.js": "/imugi-captacao/static/js/main.fd9b6295.chunk.js",
+    "main.js.map": "/imugi-captacao/static/js/main.fd9b6295.chunk.js.map",
+    "runtime-main.js": "/imugi-captacao/static/js/runtime-main.86f2d53f.js",
+    "runtime-main.js.map": "/imugi-captacao/static/js/runtime-main.86f2d53f.js.map",
+    "static/js/2.563cbbdd.chunk.js": "/imugi-captacao/static/js/2.563cbbdd.chunk.js",
+    "static/js/2.563cbbdd.chunk.js.map": "/imugi-captacao/static/js/2.563cbbdd.chunk.js.map",
+    "index.html": "/imugi-captacao/index.html",
+    "static/css/main.12cb7507.chunk.css.map": "/imugi-captacao/static/css/main.12cb7507.chunk.css.map",
+    "static/js/2.563cbbdd.chunk.js.LICENSE.txt": "/imugi-captacao/static/js/2.563cbbdd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/imugi-captacao/static/media/backgroundImugi.01b09beb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7f7714f.js",
-    "static/js/2.61d8e67f.chunk.js",
-    "static/css/main.56381894.chunk.css",
+    "static/js/runtime-main.86f2d53f.js",
+    "static/js/2.563cbbdd.chunk.js",
+    "static/css/main.12cb7507.chunk.css",
     "static/js/main.fd9b6295.chunk.js"
   ]
 }

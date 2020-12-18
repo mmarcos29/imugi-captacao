@@ -15,7 +15,9 @@
 }
 
 @media only screen and (max-width: 600px) {
-.App{
-  flex-direction: column;
-}
+  .App {
+    flex-direction: column;
+    height: unset;
+    justify-content: center;
+  }
 }

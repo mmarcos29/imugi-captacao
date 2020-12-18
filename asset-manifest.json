@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/imugi-captacao/static/css/main.12cb7507.chunk.css",
+    "main.css": "/imugi-captacao/static/css/main.0a1f44fc.chunk.css",
     "main.js": "/imugi-captacao/static/js/main.fd9b6295.chunk.js",
     "main.js.map": "/imugi-captacao/static/js/main.fd9b6295.chunk.js.map",
     "runtime-main.js": "/imugi-captacao/static/js/runtime-main.86f2d53f.js",
@@ -8,14 +8,14 @@
     "static/js/2.563cbbdd.chunk.js": "/imugi-captacao/static/js/2.563cbbdd.chunk.js",
     "static/js/2.563cbbdd.chunk.js.map": "/imugi-captacao/static/js/2.563cbbdd.chunk.js.map",
     "index.html": "/imugi-captacao/index.html",
-    "static/css/main.12cb7507.chunk.css.map": "/imugi-captacao/static/css/main.12cb7507.chunk.css.map",
+    "static/css/main.0a1f44fc.chunk.css.map": "/imugi-captacao/static/css/main.0a1f44fc.chunk.css.map",
     "static/js/2.563cbbdd.chunk.js.LICENSE.txt": "/imugi-captacao/static/js/2.563cbbdd.chunk.js.LICENSE.txt",
     "static/media/App.css": "/imugi-captacao/static/media/backgroundImugi.01b09beb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.86f2d53f.js",
     "static/js/2.563cbbdd.chunk.js",
-    "static/css/main.12cb7507.chunk.css",
+    "static/css/main.0a1f44fc.chunk.css",
     "static/js/main.fd9b6295.chunk.js"
   ]
 }

@@ -1,0 +1,70 @@
+.Form{
+    background: #7aba17;
+    width: 25vw;
+    border-radius: 2vw;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.8rem;
+    text-align: center;
+    margin: 0 8vw 0;
+    box-shadow: 1px 5px 45px black;    
+}
+.Form p:nth-child(2){
+    margin-bottom: 5vh;
+}
+.Form input{
+    width: 100%;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 5vh;
+    height: 7vh;
+    outline: none;
+}
+.Form select{
+    text-align: center;
+    text-align-last: center;
+    -moz-text-align-last: center;
+    width: 100%;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 5vh;
+    height: 7vh;
+    outline: none;
+}
+.Form input:nth-last-child(2) {
+    margin-bottom: 2vh;
+}
+.Form button{
+    background: white;
+    padding: 2vh;
+    font-weight: bold;
+    color: #000000bf;
+    font-size: 1.3rem;
+    border-radius: 1vh;
+    outline: none;
+}
+.Form .espaceButton{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Form button:active{
+    font-size: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+ .Form{
+    background: #7aba175c;
+     width: 83%;
+     padding: 16px;
+     margin-bottom: 10%;
+ }
+ .Form input, .Form select{
+    margin-bottom: 2vh;
+ }
+}

@@ -1,0 +1,20 @@
+.Texto{
+    color: #ffffff;
+    margin-left: 5vw;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.Texto p{
+    margin-bottom: 2vh;
+}
+.Texto p.p{
+    margin-bottom: 0;
+    font-weight: normal;
+
+}
+
+@media only screen and (max-width: 600px){
+    .Texto p{
+        display: none;
+    }
+}
